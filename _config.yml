@@ -4,4 +4,3 @@ plugins:
 
 # This injects custom CSS to hide the sidebar and center the main content area
 header_pages: []
-include: [README.md]
